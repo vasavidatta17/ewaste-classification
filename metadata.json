@@ -1,0 +1,6 @@
+{
+  "name": "E-Waste Pickup & Recycling Management",
+  "description": "E-Waste Classification, doorstep pickup scheduling, tracking, and rewards calculation management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
